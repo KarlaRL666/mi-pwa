@@ -23,14 +23,14 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          IDGS1004
         </p>
       </div>
       <p className="read-the-docs">
         Karla Lizbeth Martinez Lopez
       </p>
       <p className="read-the-docs">
-        IDGS1004
+        uwu
       </p>
       <PWABadge />
     </>
