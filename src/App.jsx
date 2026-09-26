@@ -27,7 +27,10 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Karla Lizbeth Martinez Lopez
+      </p>
+      <p className="read-the-docs">
+        IDGS1004
       </p>
       <PWABadge />
     </>
